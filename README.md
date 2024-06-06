@@ -52,7 +52,7 @@ ita_convnext_large_eval_pas21.yaml
 
 Our work is based on the following theoretical works:
 
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 - [Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP](https://arxiv.org/abs/2308.02487)
 - [Masked-attention Mask Transformer for Universal Image Segmentation](https://arxiv.org/abs/2112.01527)
 
-- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
