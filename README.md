@@ -56,3 +56,16 @@ Our work is based on the following theoretical works:
 - [Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP](https://arxiv.org/abs/2308.02487)
 - [Masked-attention Mask Transformer for Universal Image Segmentation](https://arxiv.org/abs/2112.01527)
 
+  ## Citation
+
+If you find the code in this repository useful for your research consider citing it.
+
+```
+@article{Cheng2025ITA,
+title={Image-Text Aggregation for Open-Vocabulary Semantic Segmentation},
+journal = {IEEE Transactions on Circuits and Systems for Video Technology}​，
+author={Shengyang Cheng, Jianyong Huang, Xiaodong Wang, Lei Huang, Zhiqiang Wei},
+year={2025}
+}
+```
+
