@@ -2,7 +2,7 @@
 
 ## Brief
 
-This paper proposes a novel framework for open-vocabulary semantic segmentation based on image-text aggregation (ITA). Our ITA leverages visual-language models for more accurate and efficient performance in open-vocabulary semantic segmentation.
+Our method explores the potential of image-related text information. This paper proposes a novel open-vocabulary semantic segmentation method based on image-text aggregation (ITA). We design a dominant category unearthing module to mine text features strongly correlated with the image, facilitating the aggregation of image-text information. Additionally, we employ a detail enhancement module to mitigate the problem of losing image details. Moreover, our ITA accomplishes single-stage semantic segmentation via the image-text aggregation module. It outperforms the two-stage methods, which have the inherent challenges of inaccurate cropped image recognition and multiple forwarding, and thus demonstrates better performance and efficiency. Experimental results on multiple widely used benchmark datasets demonstrate that our ITA achieves excellent segmentation performance compared with the state-of-the-art open-vocabulary semantic segmentation methods.
 
 ## The Framework of the Proposed ITA
 <table border=0 >
