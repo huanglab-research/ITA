@@ -2,7 +2,7 @@
 
 ## Brief
 
-Our method explores the potential of image-related text information. This paper proposes a novel open-vocabulary semantic segmentation method based on image-text aggregation (ITA). We design a dominant category unearthing module to mine text features strongly correlated with the image, facilitating the aggregation of image-text information. Additionally, we employ a detail enhancement module to mitigate the problem of losing image details. Moreover, our ITA accomplishes single-stage semantic segmentation via the image-text aggregation module. It outperforms the two-stage methods, which have the inherent challenges of inaccurate cropped image recognition and multiple forwarding, and thus demonstrates better performance and efficiency. Experimental results on multiple widely used benchmark datasets demonstrate that our ITA achieves excellent segmentation performance compared with the state-of-the-art open-vocabulary semantic segmentation methods.
+This is the implementation of paper: Shengyang Cheng, Jianyong Huang, Xiaodong Wang, Lei Huang*, Zhiqiang Wei, Image–text aggregation for open-vocabulary semantic segmentation, Neurocomputing, 2025.
 
 ## The Framework of the Proposed ITA
 <table border=0 >
@@ -63,7 +63,7 @@ If you find the code in this repository useful for your research consider citing
 ```
 @article{Cheng2025ITA,
 title={Image-Text Aggregation for Open-Vocabulary Semantic Segmentation},
-journal = {IEEE Transactions on Circuits and Systems for Video Technology}​，
+journal = {Neurocomputing}​，
 author={Shengyang Cheng, Jianyong Huang, Xiaodong Wang, Lei Huang, Zhiqiang Wei},
 year={2025}
 }
